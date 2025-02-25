@@ -36,6 +36,18 @@ Pioneer X can be used on multiple platforms:
 
 ![WhatsApp Image 2025-02-25 at 18 26 36_40d01108](https://github.com/user-attachments/assets/59d78efc-b7e6-4d1a-881f-46afe3986a26)
 
+🤝 Contributors
+Team pioneerX
+VITHAL(lostcode160)
+SNEHA
+SHIVRAJ
+SHIWANG
+SWEENI
+SHILPI
+
+
+
+
 
 
 
